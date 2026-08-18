@@ -1,0 +1,19 @@
+test,result
+all expected artifacts exist,PASS
+no artifact is zero bytes,PASS
+analysis_frame.csv has the expected row count,PASS
+analysis_frame.csv has no missing values,PASS
+analysis_frame.csv school levels match,PASS
+analysis_frame.csv Dutch core size matches,PASS
+analysis_frame.csv artwork identifiers are unique,PASS
+analysis_frame.csv dates fall inside the study period,PASS
+diagnostic battery has no missing estimates,PASS
+diagnostic battery intervals are ordered,PASS
+bootstrap yielded the required proportion of usable draws,PASS
+compositions still close to 1,PASS
+balances are finite,PASS
+manifest covers every expected artifact,PASS
+posterior summaries cover all five models,PASS
+all R-hat values are below 1.05,PASS
+all bulk ESS values exceed 400,PASS
+posterior credible intervals are ordered,PASS

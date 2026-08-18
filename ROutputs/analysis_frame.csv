@@ -1,0 +1,239 @@
+Image_Name,median_date,latitude,longitude,painter,school,dutch_core,habitat
+10.jpg,1837,55.686925,12.559814,Christen Købke,Dutch & Northern,FALSE,urban/architectural landscape
+100.jpg,1656,41.9,12.483333,Karel Dujardin,Dutch & Northern,TRUE,open countryside
+101.jpg,1691,42.833333,12.833333,Crescenzio Onofri,Classicism & Neoclassicism,FALSE,river/lakeside landscape
+102.jpg,1691,42.833333,12.833333,Crescenzio Onofri,Classicism & Neoclassicism,FALSE,mountain/rocky landscape
+103.jpg,1660,41.9,12.483333,Gaspard Dughet,Classicism & Neoclassicism,FALSE,woodland landscape
+104.jpg,1775,45.438611,12.326667,Giuseppe Zais,Baroque,FALSE,river/lakeside landscape
+105.jpg,1811,44.016667,10.583333,François-Xavier Fabre,Classicism & Neoclassicism,FALSE,woodland landscape
+106.jpg,1770,45.438611,12.326667,Giuseppe Zais,Baroque,FALSE,open countryside
+107.jpg,1638.5,41.966667,12.666667,Nicolas Poussin,Classicism & Neoclassicism,FALSE,mountain/rocky landscape
+108.jpg,1824,41.966667,12.8,Antoine-Victor-Edmond-Madeleine Joinville,Classicism & Neoclassicism,FALSE,mountain/rocky landscape
+109.jpg,1791,41.966667,12.8,Simon Denis,Classicism & Neoclassicism,FALSE,mountain/rocky landscape
+11.jpg,1821,51.966667,1.016667,John Constable,Romanticism,FALSE,river/lakeside landscape
+110.jpg,1670,41.966667,12.8,Gaspard Dughet,Classicism & Neoclassicism,FALSE,woodland landscape
+111.jpg,1670,41.733333,12.65,Gaspard Dughet,Classicism & Neoclassicism,FALSE,woodland landscape
+112.jpg,1697,41.9,12.483333,Jan-Baptist Huysmans,Rococo & Arcadian,FALSE,woodland landscape
+113.jpg,1642.5,42.833333,12.833333,Jan Both,Dutch & Northern,TRUE,woodland landscape
+114.jpg,1611,42.833333,12.833333,Giovanni Battista Viola,Baroque,FALSE,river/lakeside landscape
+115.jpg,1775,45.438611,12.326667,Giuseppe Zais,Baroque,FALSE,river/lakeside landscape
+116.jpg,1713,42.833333,12.833333,Hendrik Frans van Lint,Italianate & Vedute,FALSE,woodland landscape
+117.jpg,1645,41.9,12.483333,Jan Both,Dutch & Northern,TRUE,mountain/rocky landscape
+118.jpg,1652.5,41.9,12.483333,Karel Dujardin,Dutch & Northern,TRUE,open countryside
+119.jpg,1637,41.9,12.483333,Nicolas Poussin,Classicism & Neoclassicism,FALSE,open countryside
+12.jpg,1754,51.483036,-0.612248,Canaletto,Rococo & Arcadian,FALSE,river/lakeside landscape
+120.jpg,1641,43.596746,11.01545,Salvator Rosa,Baroque,FALSE,mountain/rocky landscape
+121.jpg,1630,41.9,12.483333,Cornelis van Poelenburgh,Italianate & Vedute,FALSE,urban/architectural landscape
+122.jpg,1760,42.833333,12.833333,Francesco Zuccarelli,Baroque,FALSE,open countryside
+123.jpg,1660,41.9,12.483333,Frederick de Moucheron,Italianate & Vedute,FALSE,urban/architectural landscape
+124.jpg,1645,41.9,12.483333,Jan Both,Dutch & Northern,TRUE,mountain/rocky landscape
+125.jpg,1752,41.9,12.483333,Claude-Joseph Vernet,Classicism & Neoclassicism,FALSE,river/lakeside landscape
+126.jpg,1739,45.438611,12.326667,Michele Marieschi,Italianate & Vedute,FALSE,urban/architectural landscape
+127.jpg,1658,42.833333,12.833333,Nicolaes Berchem,Dutch & Northern,TRUE,woodland landscape
+128.jpg,1677.5,41.9,12.483333,Abraham Begeijn,Dutch & Northern,TRUE,urban/architectural landscape
+129.jpg,1670,42.077619,12.778783,Lodewijck van Ludick,Dutch & Northern,TRUE,mountain/rocky landscape
+13.jpg,1816.5,50.636111,-2.418889,John Constable,Romanticism,FALSE,coastal landscape
+130.jpg,1739,42.833333,12.833333,Michele Marieschi,Italianate & Vedute,FALSE,river/lakeside landscape
+131.jpg,1662,42.833333,12.833333,Adriaen van de Velde,Dutch & Northern,TRUE,river/lakeside landscape
+132.jpg,1652,42.833333,12.833333,Pieter Verbeeck,Dutch & Northern,TRUE,open countryside
+133.jpg,1855,42.077619,12.778783,Henri-Joseph Harpignies,Realism & Barbizon,FALSE,river/lakeside landscape
+134.jpg,1667.5,42.833333,12.833333,Frederick de Moucheron,Italianate & Vedute,FALSE,urban/architectural landscape
+135.jpg,1657.5,42.833333,12.833333,Nicolaes Berchem,Dutch & Northern,TRUE,river/lakeside landscape
+136.jpg,1657,41.9,12.483333,Karel Dujardin,Dutch & Northern,TRUE,river/lakeside landscape
+137.jpg,1867.5,42.833333,12.833333,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,river/lakeside landscape
+138.jpg,1858,42.833333,12.833333,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,mountain/rocky landscape
+139.jpg,1652.5,42.833333,12.833333,Nicolaes Berchem,Dutch & Northern,TRUE,mountain/rocky landscape
+14.jpg,1820,51.066667,-1.783333,John Constable,Romanticism,FALSE,river/lakeside landscape
+140.jpg,1657.5,52.25,5.75,Jacob van Ruisdael,Dutch & Northern,TRUE,woodland landscape
+141.jpg,1861,52.371424,4.527049,Jozef Israëls,Dutch & Northern,TRUE,coastal landscape
+142.jpg,1632.5,52.25,5.75,Salomon van Ruysdael,Dutch & Northern,TRUE,river/lakeside landscape
+143.jpg,1798,52.25,5.75,Joseph Mallord William Turner,Romanticism,FALSE,coastal landscape
+144.jpg,1885,52.066667,4.35,Willem Maris,Dutch & Northern,TRUE,river/lakeside landscape
+145.jpg,1665,52.25,5.75,Jacob van Ruisdael,Dutch & Northern,TRUE,river/lakeside landscape
+146.jpg,1660,52.25,5.75,Salomon van Ruysdael,Dutch & Northern,TRUE,open countryside
+147.jpg,1670,52.366667,4.65,Jacob van Ruisdael,Dutch & Northern,TRUE,open countryside
+148.jpg,1658,52.25,5.75,Adriaen van de Velde,Dutch & Northern,TRUE,woodland landscape
+149.jpg,1626,52.25,5.75,Cornelis Vroom,Dutch & Northern,TRUE,river/lakeside landscape
+15.jpg,1748,52.033333,0.766667,Thomas Gainsborough,Rococo & Arcadian,FALSE,woodland landscape
+150.jpg,1665,52.35,4.916667,Meindert Hobbema,Dutch & Northern,TRUE,open countryside
+151.jpg,1655,51.958037,4.3309,Egbert van der Poel,Dutch & Northern,TRUE,urban/architectural landscape
+152.jpg,1695,51.916667,4.5,Abraham Storck,Dutch & Northern,TRUE,river/lakeside landscape
+153.jpg,1664.5,52.143509,5.044809,Aert van der Neer,Dutch & Northern,TRUE,river/lakeside landscape
+154.jpg,1660,52.3745210721765,4.88368081771659,Jan van der Heyden,Dutch & Northern,TRUE,urban/architectural landscape
+155.jpg,1648,51.9567988263609,5.56440018090536,Salomon van Ruysdael,Dutch & Northern,TRUE,river/lakeside landscape
+156.jpg,1657.5,51.799015,4.741591,Willem van Drielenburgh,Dutch & Northern,TRUE,river/lakeside landscape
+157.jpg,1650,51.8142563989787,4.65998073911193,Aelbert Cuyp,Dutch & Northern,TRUE,open countryside
+158.jpg,1651,51.8142563989787,4.65998073911193,Aelbert Cuyp,Dutch & Northern,TRUE,open countryside
+159.jpg,1657,52.2803963878112,6.11315193582824,Salomon van Ruysdael,Dutch & Northern,TRUE,river/lakeside landscape
+16.jpg,1871,51.4311598472008,-0.0606826265325253,Camille Pissarro,Impressionism,FALSE,urban/architectural landscape
+160.jpg,1659,52.25,5.75,Philips Wouwerman,Dutch & Northern,TRUE,coastal landscape
+161.jpg,1664,52.373015,4.898557,Meindert Hobbema,Dutch & Northern,TRUE,urban/architectural landscape
+162.jpg,1671,52.425662710787,4.62262312511876,Meindert Hobbema,Dutch & Northern,TRUE,river/lakeside landscape
+163.jpg,1775,52.25,5.75,Aelbert Cuyp,Dutch & Northern,TRUE,open countryside
+164.jpg,1669,52.25,5.75,Cornelis Decker,Dutch & Northern,TRUE,woodland landscape
+165.jpg,1645,52.25,5.75,Jan van Goyen,Dutch & Northern,TRUE,river/lakeside landscape
+166.jpg,1663,52.25,5.75,Meindert Hobbema,Dutch & Northern,TRUE,river/lakeside landscape
+167.jpg,1665,52.366667,4.65,Jan Wijnants,Dutch & Northern,TRUE,mountain/rocky landscape
+168.jpg,1650,51.916667,4.5,Jan van de Cappelle,Dutch & Northern,TRUE,river/lakeside landscape
+169.jpg,1630,52.3354128966685,5.07149826662547,Arent Arentsz.,Dutch & Northern,TRUE,river/lakeside landscape
+17.jpg,1820,51.9714596589003,0.979193115567169,John Constable,Romanticism,FALSE,river/lakeside landscape
+170.jpg,1652.5,52.25,5.75,Aelbert Cuyp,Dutch & Northern,TRUE,river/lakeside landscape
+171.jpg,1670,52.25,5.75,Jan Wijnants,Dutch & Northern,TRUE,open countryside
+172.jpg,1642,52.25,5.75,Jan van Goyen,Dutch & Northern,TRUE,river/lakeside landscape
+173.jpg,1689,51.75,4.15,Meindert Hobbema,Dutch & Northern,TRUE,urban/architectural landscape
+174.jpg,1665,52.380745,4.644004,Meindert Hobbema,Dutch & Northern,TRUE,woodland landscape
+175.jpg,1645,52.25,5.75,Aert van der Neer,Dutch & Northern,TRUE,river/lakeside landscape
+176.jpg,1647,52.25,5.75,Paulus Potter,Dutch & Northern,TRUE,open countryside
+177.jpg,1647.5,52.25,5.75,Jacob van Ruisdael,Dutch & Northern,TRUE,open countryside
+178.jpg,1623,52.25,5.75,Esaias van de Velde,Dutch & Northern,TRUE,open countryside
+179.jpg,1659,52.366667,4.65,Jan Wijnants,Dutch & Northern,TRUE,open countryside
+18.jpg,1759,52.5619,-1.4649,Thomas Gainsborough,Rococo & Arcadian,FALSE,woodland landscape
+180.jpg,1667.5,52.366667,4.65,Jan Wijnants,Dutch & Northern,TRUE,mountain/rocky landscape
+181.jpg,1655,52.25,5.75,Joris van der Haagen,Dutch & Northern,TRUE,river/lakeside landscape
+182.jpg,1667.5,52.366667,4.65,Jacob van Ruisdael,Dutch & Northern,TRUE,river/lakeside landscape
+183.jpg,1659,51.799015,4.741591,Aelbert Cuyp,Dutch & Northern,TRUE,river/lakeside landscape
+184.jpg,1667.5,52.3768910245777,6.98106835764994,Meindert Hobbema,Dutch & Northern,TRUE,river/lakeside landscape
+185.jpg,1655,52.25,5.75,Philips Koninck,Dutch & Northern,TRUE,open countryside
+186.jpg,1648,52.380745,4.644004,Jacob van Ruisdael,Dutch & Northern,TRUE,river/lakeside landscape
+187.jpg,1659,52.366667,4.65,Cornelis van der Schalcke,Dutch & Northern,TRUE,open countryside
+188.jpg,1658,52.2215707822121,5.0366787117939,Jan Beerstraaten,Dutch & Northern,TRUE,urban/architectural landscape
+189.jpg,1670,52.25,5.75,Philips Koninck,Dutch & Northern,TRUE,open countryside
+19.jpg,1786,52.5,-1.25,Thomas Gainsborough,Rococo & Arcadian,FALSE,woodland landscape
+190.jpg,1644.5,52.25,5.75,Isack van Ostade,Dutch & Northern,TRUE,river/lakeside landscape
+191.jpg,1675,52.616667,4.633333,Jacob van Ruisdael,Dutch & Northern,TRUE,coastal landscape
+192.jpg,1632,52.25,5.75,Salomon van Ruysdael,Dutch & Northern,TRUE,river/lakeside landscape
+193.jpg,1667,52.380745,4.644004,Jan Wijnants,Dutch & Northern,TRUE,open countryside
+194.jpg,1659,52.380745,4.644004,Philips Wouwerman,Dutch & Northern,TRUE,river/lakeside landscape
+195.jpg,1615,52.25,5.75,Hendrick Avercamp,Dutch & Northern,TRUE,urban/architectural landscape
+196.jpg,1657.5,52.25,5.75,Aelbert Cuyp,Dutch & Northern,TRUE,open countryside
+197.jpg,1657.5,51.841679,5.838129,Aelbert Cuyp,Dutch & Northern,TRUE,open countryside
+198.jpg,1651,52.25,5.75,Paulus Potter,Dutch & Northern,TRUE,open countryside
+199.jpg,1665,51.916667,4.5,Willem Buytewech the Younger,Dutch & Northern,TRUE,open countryside
+2.jpg,1636,51.213886,4.401514,Peter Paul Rubens,Baroque,FALSE,open countryside
+20.jpg,1826,51.96456,1.00966,John Constable,Romanticism,FALSE,open countryside
+200.jpg,1664,52.25,5.75,Philips Wouwerman,Dutch & Northern,TRUE,river/lakeside landscape
+201.jpg,1645,52.25,5.75,Isack van Ostade,Dutch & Northern,TRUE,open countryside
+202.jpg,1652.5,52.3959057252792,4.63593722326699,Jacob van Ruisdael,Dutch & Northern,TRUE,open countryside
+203.jpg,1880,52.25,5.75,Jacob Maris,Dutch & Northern,TRUE,river/lakeside landscape
+204.jpg,1641,52.25,5.75,Aelbert Cuyp,Dutch & Northern,TRUE,river/lakeside landscape
+205.jpg,1660,52.25,5.75,Willem van de Velde,Dutch & Northern,TRUE,coastal landscape
+206.jpg,1800,52.25,5.75,Andries Vermeulen,Dutch & Northern,TRUE,river/lakeside landscape
+207.jpg,1700,52.25,5.75,Joseph Parrocel,Baroque,FALSE,open countryside
+208.jpg,1654.5,52.25,5.75,Philips Wouwerman,Dutch & Northern,TRUE,open countryside
+209.jpg,1629,52.25,5.75,Jan van Goyen,Dutch & Northern,TRUE,open countryside
+21.jpg,1834.5,52.664913,-1.034894,John Constable,Romanticism,FALSE,woodland landscape
+210.jpg,1648,52.25,5.75,Aert van der Neer,Dutch & Northern,TRUE,urban/architectural landscape
+211.jpg,1652.5,52.25,5.75,Jan van de Cappelle,Dutch & Northern,TRUE,coastal landscape
+212.jpg,1655,51.833333,5.866667,Aelbert Cuyp,Dutch & Northern,TRUE,river/lakeside landscape
+213.jpg,1665,52.25,5.75,Jan Wijnants,Dutch & Northern,TRUE,open countryside
+214.jpg,1667.5,52.25,5.75,Meindert Hobbema,Dutch & Northern,TRUE,woodland landscape
+215.jpg,1675,52.3027866720095,7.15712336743822,Jacob van Ruisdael,Dutch & Northern,TRUE,open countryside
+216.jpg,1660,52.373015,4.898557,Meindert Hobbema,Dutch & Northern,TRUE,open countryside
+217.jpg,1644.5,52.366667,4.65,Isack van Ostade,Dutch & Northern,TRUE,urban/architectural landscape
+218.jpg,1867,52.025333,4.865822,Willem Koekkoek,Dutch & Northern,TRUE,urban/architectural landscape
+219.jpg,1670,52.1,4.35,Jan van der Heyden,Dutch & Northern,TRUE,urban/architectural landscape
+22.jpg,1871,51.4978685974368,-0.13606174287381,Claude Monet,Impressionism,FALSE,river/lakeside landscape
+220.jpg,1660,52.094205,4.293734,Willem van de Velde,Dutch & Northern,TRUE,coastal landscape
+221.jpg,1653,52.25,5.75,Jan van Goyen,Dutch & Northern,TRUE,coastal landscape
+222.jpg,1885,52.25,5.75,Jacob Maris,Dutch & Northern,TRUE,river/lakeside landscape
+223.jpg,1651,52.376547170541,6.98087523860814,Jacob van Ruisdael,Dutch & Northern,TRUE,urban/architectural landscape
+224.jpg,1658,52.25,5.75,Adriaen van de Velde,Dutch & Northern,TRUE,open countryside
+225.jpg,1647.5,52.25,5.75,Jacob van Ruisdael,Dutch & Northern,TRUE,woodland landscape
+226.jpg,1663,52.25,5.75,Adriaen van de Velde,Dutch & Northern,TRUE,open countryside
+227.jpg,1670,52.25,5.75,Jan van der Heyden,Dutch & Northern,TRUE,river/lakeside landscape
+229.jpg,1827,59.6197048565733,9.66604189685172,Johan Christian Dahl,Romanticism,FALSE,mountain/rocky landscape
+23.jpg,1745,53.081715349708,-2.880244403875,Richard Wilson,Classicism & Neoclassicism,FALSE,river/lakeside landscape
+230.jpg,1670,63.99056,12.30778,Allart van Everdingen,Dutch & Northern,TRUE,river/lakeside landscape
+231.jpg,1667.5,62.5,14.5,Jacob van Ruisdael,Dutch & Northern,TRUE,mountain/rocky landscape
+232.jpg,1667.5,62.5,14.5,Jacob van Ruisdael,Dutch & Northern,TRUE,mountain/rocky landscape
+233.jpg,1665,62.5,14.5,Jacob van Ruisdael,Dutch & Northern,TRUE,mountain/rocky landscape
+234.jpg,1665,62.5,14.5,Jacob van Ruisdael,Dutch & Northern,TRUE,mountain/rocky landscape
+235.jpg,1784,43.260919,-2.938764,Luis Paret,Rococo & Arcadian,FALSE,urban/architectural landscape
+236.jpg,1649.5,40.5211243714299,-3.77490137569303,Spanish,Spanish School,FALSE,open countryside
+237.jpg,1875,46.463776,6.847507,Gustave Courbet,Realism & Barbizon,FALSE,river/lakeside landscape
+238.jpg,1853,46.193523,5.99574,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,open countryside
+239.jpg,1861,47.051021,8.491275,Alexandre Calame,Dutch & Northern,FALSE,mountain/rocky landscape
+24.jpg,1761,53.081715349708,-2.880244403875,Richard Wilson,Classicism & Neoclassicism,FALSE,river/lakeside landscape
+240.jpg,1854,46.955573,7.441142,Alexandre Calame,Dutch & Northern,FALSE,mountain/rocky landscape
+241.jpg,1860,46.6126242356619,8.30654533511344,Alexandre Calame,Dutch & Northern,FALSE,mountain/rocky landscape
+242.jpg,1874,46.454185,6.866923,Gustave Courbet,Realism & Barbizon,FALSE,river/lakeside landscape
+25.jpg,1859,46.7685,2.4326,Gustave Courbet,Realism & Barbizon,FALSE,woodland landscape
+26.jpg,1842.5,47.2878585285323,3.81753227260716,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,urban/architectural landscape
+27.jpg,1877,49.055272,2.105512,Camille Pissarro,Impressionism,FALSE,woodland landscape
+28.jpg,1875,48.866667,2.083333,Alfred Sisley,Impressionism,FALSE,urban/architectural landscape
+29.jpg,1854.5,48.409078,2.701773,Narcisse-Virgilio Diaz de la Peña,Realism & Barbizon,FALSE,open countryside
+3.jpg,1646,51.213886,4.401514,David Teniers the Younger,Baroque,FALSE,river/lakeside landscape
+30.jpg,1873,49.071579,2.169782,Charles-François Daubigny,Realism & Barbizon,FALSE,river/lakeside landscape
+31.jpg,1869.5,48.8646973180238,2.12512547464756,Camille Pissarro,Impressionism,FALSE,open countryside
+32.jpg,1873.5,49.2789835363139,1.77651868357387,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,river/lakeside landscape
+33.jpg,1894.5,49.3738027550178,0.104037262145271,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,coastal landscape
+34.jpg,1830,45.0787602988601,2.75810347118807,Théodore Rousseau,Realism & Barbizon,FALSE,mountain/rocky landscape
+35.jpg,1860,49,2.333333,Philippe Rousseau,Unspecified / Other,FALSE,open countryside
+36.jpg,1872.5,50.2628784035936,3.19041880431726,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,river/lakeside landscape
+37.jpg,1864.5,49.071579,2.169782,Charles-François Daubigny,Realism & Barbizon,FALSE,open countryside
+38.jpg,1869,49.3104745190162,2.72803482005925,François Bonvin,Realism & Barbizon,FALSE,open countryside
+39.jpg,1831,49.4415835043967,1.0912201807209,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,open countryside
+4.jpg,1646,51.213886,4.401514,David Teniers the Younger,Baroque,FALSE,open countryside
+40.jpg,1875,48.596401,2.495148,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,open countryside
+41.jpg,1844,43.9696247669014,-0.836015240918723,Théodore Rousseau,Realism & Barbizon,FALSE,open countryside
+42.jpg,1868.5,43.5274806294155,3.93013716794524,Gustave Courbet,Realism & Barbizon,FALSE,coastal landscape
+43.jpg,1871,48.443464,2.60313,Narcisse-Virgilio Diaz de la Peña,Realism & Barbizon,FALSE,open countryside
+44.jpg,1838,48.432388,2.636323,Théodore Rousseau,Realism & Barbizon,FALSE,mountain/rocky landscape
+45.jpg,1893,49.3234748200565,0.0700494029275871,Eugène Boudin,Impressionism,FALSE,coastal landscape
+46.jpg,1871,50.1987735705631,2.24312015802766,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,open countryside
+47.jpg,1873,48.91421,2.476042,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,river/lakeside landscape
+48.jpg,1871,50.2667118177883,3.09972483187719,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,river/lakeside landscape
+49.jpg,1872,49.071579,2.169782,Charles-François Daubigny,Realism & Barbizon,FALSE,river/lakeside landscape
+5.jpg,1638,51.213886,4.401514,Peter Paul Rubens,Baroque,FALSE,open countryside
+50.jpg,1859,49.071579,2.169782,Charles-François Daubigny,Realism & Barbizon,FALSE,river/lakeside landscape
+51.jpg,1836,43.9723554158885,4.78474849349258,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,urban/architectural landscape
+52.jpg,1875,48.411238,2.564517,François Millet,Realism & Barbizon,FALSE,urban/architectural landscape
+53.jpg,1864,49.5102985892554,0.0667575996603086,Claude Monet,Impressionism,FALSE,coastal landscape
+54.jpg,1889,45.9041867243282,6.12918567171025,Pierre-Auguste Renoir,Impressionism,FALSE,river/lakeside landscape
+55.jpg,1894,47.9893823998133,3.61538039517169,Henri-Joseph Harpignies,Realism & Barbizon,FALSE,open countryside
+56.jpg,1867,48.8635056873786,2.32748356718649,Adolph Menzel,Realism & Barbizon,FALSE,urban/architectural landscape
+57.jpg,1872,48.947885,2.24744,Claude Monet,Impressionism,FALSE,river/lakeside landscape
+58.jpg,1760,46.7685,2.4326,Gabriel-Jacques de Saint-Aubin,Unspecified / Other,FALSE,urban/architectural landscape
+59.jpg,1755,48.889803,2.158627,François Boucher,Rococo & Arcadian,FALSE,urban/architectural landscape
+6.jpg,1840,50.833333,4.333333,Jean-Michel Cels,Romanticism,FALSE,woodland landscape
+60.jpg,1834.5,46.7685,2.4326,Georges Michel,Dutch & Northern,TRUE,open countryside
+61.jpg,1873,47.4030085137267,3.87680712791129,Charles-François Daubigny,Realism & Barbizon,FALSE,river/lakeside landscape
+62.jpg,1854.5,48.85,2.192935,Paul Huet,Romanticism,FALSE,woodland landscape
+63.jpg,1846,49.107441,2.228181,Jules-Louis Dupré,Realism & Barbizon,FALSE,river/lakeside landscape
+64.jpg,1874.5,48.443464,2.60313,Narcisse-Virgilio Diaz de la Peña,Realism & Barbizon,FALSE,river/lakeside landscape
+65.jpg,1825,46.7685,2.4326,Richard Parkes Bonington,Romanticism,FALSE,river/lakeside landscape
+66.jpg,1850,46.7685,2.4326,Théodore Rousseau,Realism & Barbizon,FALSE,river/lakeside landscape
+67.jpg,1855,48.461914,2.665357,Antoine-Louis Barye,Romanticism,FALSE,woodland landscape
+68.jpg,1861,49.756728,0.372873,Antoine Chintreuil,Unspecified / Other,FALSE,mountain/rocky landscape
+69.jpg,1879.5,49.062833,1.692931,Claude Monet,Impressionism,FALSE,river/lakeside landscape
+7.jpg,1650,51.213886,4.401514,Lucas van Uden  and David Teniers the Younger,Baroque,FALSE,open countryside
+70.jpg,1887.5,49.0303724581852,0.241144843814191,Eugène Boudin,Impressionism,FALSE,river/lakeside landscape
+71.jpg,1860,47.0814130461153,5.47281845529144,Gustave Courbet,Realism & Barbizon,FALSE,mixed/unclear landscape
+72.jpg,1899,49.0769678397807,1.53028354745212,Claude Monet,Impressionism,FALSE,river/lakeside landscape
+73.jpg,1858,46.7685,2.4326,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,woodland landscape
+74.jpg,1850,48.409078,2.701773,Narcisse-Virgilio Diaz de la Peña,Realism & Barbizon,FALSE,open countryside
+75.jpg,1886,47.683333,3,Henri-Joseph Harpignies,Realism & Barbizon,FALSE,urban/architectural landscape
+77.jpg,1862.5,48.8271677094193,2.18890366508436,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,river/lakeside landscape
+78.jpg,1757,50.9190690989838,14.0572828673353,Bernardo Bellotto,Rococo & Arcadian,FALSE,urban/architectural landscape
+79.jpg,1811,51.1633,10.4539,Caspar David Friedrich,Romanticism,FALSE,mixed/unclear landscape
+8.jpg,1618.5,51,4.5,Peter Paul Rubens,Baroque,FALSE,woodland landscape
+81.jpg,1648,39.8742171946192,22.5541179127486,Nicolas Poussin,Classicism & Neoclassicism,FALSE,urban/architectural landscape
+82.jpg,1751,42.383333,13.016667,Claude-Joseph Vernet,Classicism & Neoclassicism,FALSE,urban/architectural landscape
+83.jpg,1777.5,45.438611,12.326667,Francesco Guardi,Italianate & Vedute,FALSE,urban/architectural landscape
+84.jpg,1645,42.833333,12.833333,Jan Both,Dutch & Northern,TRUE,open countryside
+85.jpg,1659,42.833333,12.833333,Nicolaes Berchem,Dutch & Northern,TRUE,mountain/rocky landscape
+86.jpg,1637,41.966667,12.666667,Gaspard Dughet,Classicism & Neoclassicism,FALSE,woodland landscape
+87.jpg,1770,42.833333,12.833333,Bernardo Bellotto,Rococo & Arcadian,FALSE,urban/architectural landscape
+88.jpg,1823.5,42.833333,12.833333,Charles Rémond,Classicism & Neoclassicism,FALSE,mountain/rocky landscape
+89.jpg,1788,41.966667,12.8,Jean Joseph Xavier Bidauld,Classicism & Neoclassicism,FALSE,river/lakeside landscape
+9.jpg,1632.5,51.213886,4.401514,Peter Paul Rubens,Baroque,FALSE,open countryside
+90.jpg,1823.5,40.55,14.216667,Charles Rémond,Classicism & Neoclassicism,FALSE,mountain/rocky landscape
+91.jpg,1670,41.966667,12.8,Gaspard Dughet,Classicism & Neoclassicism,FALSE,woodland landscape
+92.jpg,1636.5,41.9,12.483333,Claude,Classicism & Neoclassicism,FALSE,woodland landscape
+93.jpg,1641,41.8776850498232,12.4718588596195,Jan Both,Dutch & Northern,TRUE,urban/architectural landscape
+94.jpg,1814,41.9,12.4833,Christoffer Wilhelm Eckersberg,Dutch & Northern,FALSE,urban/architectural landscape
+95.jpg,1776,42.833333,12.833333,Claude-Joseph Vernet,Classicism & Neoclassicism,FALSE,coastal landscape
+96.jpg,1673,41.9,12.483333,Karel Dujardin,Dutch & Northern,TRUE,open countryside
+97.jpg,1642,42.833333,12.833333,Jan Both,Dutch & Northern,TRUE,woodland landscape
+98.jpg,1826,41.8890544072839,12.4880483812954,Jean-Baptiste-Camille Corot,Realism & Barbizon,FALSE,open countryside
+99.jpg,1632,41.9,12.483333,Claude,Classicism & Neoclassicism,FALSE,urban/architectural landscape

@@ -1,0 +1,5 @@
+ model elpd_diff se_diff p_worse diag_diff      diag_elpd
+    M5       0.0     0.0      NA                         
+    M2     -53.6    23.4    0.99           7 k_psis > 0.7
+    M1     -54.1    23.2    0.99           4 k_psis > 0.7
+    M4     -54.4    23.1    0.99           5 k_psis > 0.7
