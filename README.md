@@ -15,8 +15,7 @@ independently assigned scene type as the only scene covariate.
 
 | Folder | Contents |
 |---|---|
-| `Dataset/Metadata` | `clean_metadata.xlsx` — dates, coordinates, attribution, artistic tradition, and the independent EUNIS-aligned scene classification, `Cohens_kappa_matrix.xlsx` — Ordinal dafor ratings 
-`PaintingsDataset.xlsx` links to National Gallery online archive along with painter and painting names |
+| `Dataset/Metadata` | `clean_metadata.xlsx` — dates, coordinates, attribution, artistic tradition, and the independent EUNIS-aligned scene classification, `Cohens_kappa_matrix.xlsx` — Ordinal dafor ratings `PaintingsDataset.xlsx` links to National Gallery online archive along with painter and painting names |
 | `PythonCode` | Fine-tuning notebooks (`Mask2former`, `DeepLab`, `Segformer`), `Inference_validation` (full-corpus inference and the held-out validation), `Convert_confusion` (bridges Python output to R input) |
 | `PythonOutputs` | Per-artwork pixel counts, the pooled confusion matrix, per-artwork confusion matrices in long form, and empirical measurement error |
 | `RCode` | `Final STATS.R` — the complete statistical pipeline |
